@@ -1,2 +1,2 @@
-# seq
-Neural Network for Sequence 
+# IMDB
+Neural Network for Sequence, binary classification of IMDB reviews
