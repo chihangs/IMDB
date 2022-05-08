@@ -4,6 +4,7 @@ The problem to solve is sentiment analysis of the text. The dataset chosen for t
 
 This task is interesting as it has potential to generalize to other domains, not just movie reviews. As an extra task, to test the generalization ability, a small dataset of 100 restaurant reviews is collected from opentable.com, also removing those with middle ratings.
 
+Model parameter files are too large to upload to the folder "para"
 
 
 
